@@ -1,0 +1,33 @@
+TECHNOVA SOLUTIONS — IT SECURITY POLICY
+Demo dataset | Version 1.0 | Effective 1 January 2026
+
+1. Passwords and Authentication
+- Use a unique password for every company account.
+- Do not share passwords with colleagues, managers, or support staff.
+- Use the company-approved password manager to store work credentials.
+- Enable multi-factor authentication (MFA) wherever it is supported.
+- Report suspected account compromise to the IT Help Desk immediately.
+
+2. Devices and Software
+- Company-managed devices must use approved endpoint protection and receive security updates.
+- Do not install unapproved software or disable security controls.
+- Lock your screen whenever you leave your workstation.
+- Lost or stolen devices must be reported to IT as soon as possible.
+
+3. Email and Phishing
+- Do not open unexpected attachments or sign in through suspicious links.
+- Verify unusual payment, password-reset, or data requests through a separate trusted channel.
+- Forward suspected phishing messages to security@technova.example.
+
+4. Data Handling
+- Store company files only in approved company storage locations.
+- Share confidential files only with authorized recipients and use access-controlled links.
+- Do not upload confidential company or customer data to personal cloud accounts or public AI tools.
+
+5. Incident Reporting
+- Report suspected malware, data exposure, unauthorized access, or accidental disclosure to the IT Help Desk immediately.
+- Include the approximate time, affected device or account, and a short description. Do not attempt to investigate beyond your authorization.
+
+6. Support
+- IT Help Desk hours: Monday to Friday, 9:00 a.m. to 6:00 p.m.
+- Contact: it-helpdesk@technova.example
